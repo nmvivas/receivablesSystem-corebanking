@@ -4,16 +4,14 @@
 
 <Workspace>
 	<Local Expanded="Yes">
-		<Model Expanded="Yes" ID="{4342D9BA-98E9-45B4-8990-48D3DCF9D14C}" Loaded="No" Name="BanQuito2024-Accounts" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="/GITHUB/otros archivos de CoreBanquito/BanQuito2024-Accounts-obs.pdm"/>
-		<Model Expanded="Yes" ID="{4342D9BA-98E9-45B4-8990-48D3DCF9D14C}" Name="BanQuito2024-Accounts" Selected="Yes" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="/GITHUB/otros archivos de CoreBanquito/BanQuito2024-Accounts-obs2.1.pdm"/>
-		<Model Expanded="Yes" ID="{43A79E63-C65E-47DC-88CA-82ED63B3592F}" Loaded="No" Name="CobrosRecaudos-BanQuito" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="/GITHUB/otros archivos de CoreBanquito/CoreBanQuito_V3.pdm"/>
-		<Model Expanded="Yes" ID="{43A79E63-C65E-47DC-88CA-82ED63B3592F}" Loaded="No" Name="CobrosRecaudos-BanQuito" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="/GITHUB/otros archivos de CoreBanquito/CoreBanQuito_V4.pdm"/>
-		<Model Expanded="Yes" ID="{43A79E63-C65E-47DC-88CA-82ED63B3592F}" Loaded="No" Name="CobrosRecaudos-BanQuito" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="/GITHUB/otros archivos de CoreBanquito/CoreBanQuito_V5.pdm"/>
-		<Model Expanded="Yes" ID="{4342D9BA-98E9-45B4-8990-48D3DCF9D14C}" Loaded="No" Name="BanQuito2024-Accounts" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="/GITHUB/otros archivos de CoreBanquito/BanQuito2024-Accounts-obs2.1.pdm"/>
-		<Model Expanded="Yes" ID="{95D3F5F1-7A70-4A09-8CBE-5B50403A68E0}" Loaded="No" Name="PhysicalDataModel_1" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="file:///C|/Users/Admin/AppData/Local/Microsoft/Windows/INetCache/IE/UHR9QQ6B/CyR_v1[1].pdm"/>
-		<Model Expanded="Yes" ID="{95D3F5F1-7A70-4A09-8CBE-5B50403A68E0}" Loaded="No" Name="PhysicalDataModel_1" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="CoreBanQuito_V8.pdm"/>
-		<Model ID="{95D3F5F1-7A70-4A09-8CBE-5B50403A68E0}" Loaded="No" Name="PhysicalDataModel_1" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="CoreBanQuito_V8.pdm"/>
-		<Model Expanded="Yes" ID="{E0555D08-75ED-426F-9711-1AFCD3297A9A}" Name="Cobros" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="CobrosBanquitoV11.pdm"/>
+		<Model ID="{0C4A3789-ABD5-4ECB-84B2-72F1B69C0D8F}" Loaded="No" Name="BancaWebEmpresas" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="BancaWebPersonas.pdm"/>
+		<Model ID="{8FAA9DB3-18A3-4AF8-9D7D-346286847F0D}" Loaded="No" Name="BancaWebPersonas" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="BWebPersonas.pdm"/>
+		<Model ID="{4342D9BA-98E9-45B4-8990-48D3DCF9D14C}" Loaded="No" Name="BanQuito2024-Accounts" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="CoreBanquito-cobros ws.pdm"/>
+		<Model Expanded="Yes" ID="{43A79E63-C65E-47DC-88CA-82ED63B3592F}" Loaded="No" Name="CobrosRecaudos-BanQuito" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="CoreBanQuito_V6 - banquito .pdm"/>
+		<Model ID="{09DE749C-109A-4C0F-994C-86CCA4D6C47F}" Loaded="No" Name="COBRORECAUDO-final " Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="COBRORECAUDO2024-Final.pdm"/>
+		<Model ID="{E0555D08-75ED-426F-9711-1AFCD3297A9A}" Name="Cobros_Recaudos" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="CobrosBanquitoV12.pdm"/>
+		<Model ID="{E0555D08-75ED-426F-9711-1AFCD3297A9A}" Name="Cobros_Recaudos" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="file:///C|/Users/Admin/Downloads/CobrosBanquitoV13.pdm"/>
+		<Model ID="{E0555D08-75ED-426F-9711-1AFCD3297A9A}" Name="Cobros_Recaudos" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="file:///C|/Users/Admin/Downloads/CobrosBanquitoV15.pdm"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
