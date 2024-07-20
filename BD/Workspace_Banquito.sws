@@ -15,7 +15,7 @@
 		<Model ID="{AE6FF95D-1024-41A8-9E15-AB104EEAE90B}" Loaded="No" Name="CoreCobros" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="CobrosBanquitoV15.pdm"/>
 		<Model Expanded="Yes" ID="{E0555D08-75ED-426F-9711-1AFCD3297A9A}" Loaded="No" Name="Cobros_Recaudos" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="CobrosBanquitoV18.pdm"/>
 		<Model ID="{4342D9BA-98E9-45B4-8990-48D3DCF9D14C}" Loaded="No" Name="BanQuito2024-Accounts" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="BanQuito2024-Accounts segundo parcial .pdm"/>
-		<Model Expanded="Yes" ID="{E0555D08-75ED-426F-9711-1AFCD3297A9A}" Name="Cobros_Recaudos" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="CobrosBanquitoV18.pdm"/>
+		<Model Expanded="Yes" ID="{E0555D08-75ED-426F-9711-1AFCD3297A9A}" Name="Cobros_Recaudos" Selected="Yes" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="CobrosBanquitoV19.pdm"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
